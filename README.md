@@ -19,3 +19,9 @@
 - segundo: realizarlas en js
 - tercero crear formulas
 - cuarto: intergrar JS con html
+
+## Taller #4: salarios
+
+- primer paso: efinir las formulas
+- segundo: realizarlas en js
+- tercero crear formulas
